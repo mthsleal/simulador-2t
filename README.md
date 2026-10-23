@@ -1,7 +1,4 @@
-# Simulador do 2º turno 2026
+# Simulador do 2º turno 2026 — movido
 
-Página interativa: https://mthsleal.github.io/simulador-2t/
-
-Simulação do 2º turno presidencial (Flávio × Lula, 25/10/2026) a partir da urna do 1º turno (TSE), com as
-premissas de transferência de votos, abstenção e swing por região. Um único arquivo (`index.html`),
-gerado por `resultado_1t/dashboard_2t.R` no repositório de trabalho; não edite à mão.
+Desde 23/10/2026 o simulador faz parte do painel https://mthsleal.github.io/eleicoes-2026/#simulador (acesso restrito).
+Esta página só redireciona para lá. Gerado por `resultado_1t/dashboard_2t.R` no repositório de trabalho.
